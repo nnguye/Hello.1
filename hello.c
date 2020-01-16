@@ -6,5 +6,7 @@ Date: 2020/01/14
 
 int main(void) {
 	printf("Nhien Nguyen!\n");
+	printf("David Aguilar!\n");
+
 	return 0;
 }
